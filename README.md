@@ -1,5 +1,7 @@
 # ML-Regression_And_Classification_On_Supermarket_Sales_Dataset
 
+## Done During Aug 2022 - Sep 2022
+
 ---
 **UPLOADED FILES**
 
@@ -10,10 +12,6 @@ Files-
 2. training.ipynb - to train the machine learning models, and save them
 
 3. report.pdf - project report in IEEE format
-
-4. Test - Jupyter Notebook.pdf - pdf copy of the Test.ipynb
-
-5. training - Jupyter Notebook.pdf - pdf copy of training.ipynb
 
 
 Datasets - 
