@@ -14,9 +14,9 @@ Files-
 3. report.pdf - project report in IEEE format
 
 
-Datasets - 
+Datasets (in addition to Supermarket Sales Dataset)- 
 
-1.lr_train_set_prepared.csv, lr_test_set_prepared.csv (for multiple linear regression)
+1. lr_train_set_prepared.csv, lr_test_set_prepared.csv (for multiple linear regression)
 
 2. gender_train_set_prepared.csv, gender_test_set_prepared.csv (for gender classification)
 
